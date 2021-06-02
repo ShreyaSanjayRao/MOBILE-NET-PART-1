@@ -1,0 +1,36 @@
+body{
+    font-family: 'Lobster', cursive;
+    background-color: #0be3ca;
+}
+.Mobile{
+    background-color: blueviolet;
+    color:salmon ;
+}
+.Mobile img{
+    width: 100px;
+}
+.Phone{
+    background-color: salmon;
+    padding: 10px;
+    margin-top: 15px;
+    border:3px solid white;
+}
+.Phone label{
+    background-color: teal;
+    width: 310px;
+    padding: 20px;
+    margin-bottom: 0px;
+    box-shadow:5px 5px 20px whitesmoke;
+}
+#camera{
+    border: 2px solid rgb(18, 84, 206);
+width: 310px;
+height: 310px;
+box-shadow: 5px 5px 20px goldenrod;
+}
+.Phone button{
+    width:310px ;
+    font-size: 30px;
+    box-shadow: 5px 5px 20px whitesmoke;
+    border: 1px solid darkred;
+}
